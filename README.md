@@ -1,7 +1,5 @@
 # rc-local-ubunto script
 
-# 🚀 unifi-server-script
-
 Reactivate/Recreate rc.local in newer versions of ubuntu.
 
 ## ⚙️ Usage
