@@ -7,4 +7,4 @@ Reactivate/Recreate rc.local in newer versions of ubuntu.
 Click the copy button and run the following command in your terminal:
 
 ```bash
-bash <(curl -s https://github.com/0LB-i/rc-local-ubunto/blob/main/rc-local-ubunto.sh)
+bash <(curl -s https://raw.githubusercontent.com/0LB-i/rc-local-ubunto/main/rc-local-ubunto.sh)
