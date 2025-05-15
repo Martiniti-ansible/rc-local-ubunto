@@ -27,7 +27,5 @@ EOF
 
 systemctl daemon-reexec
 systemctl daemon-reload
-systemctl enable rc-local
-systemctl start rc-local
-# Mostra o status para confirmar que tudo está funcionando
+systemctl enable --now rc-local
 systemctl status rc-local --no-pager
